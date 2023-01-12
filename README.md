@@ -1,4 +1,4 @@
-![html](img/css.png.png)
+![CSS](img/css.png)
 
 # Este Repositório tem o objetivo de expor os resultados dos estudos de CSS e CSS3.
 
@@ -12,8 +12,7 @@ Existem muitas vantagens na nova versao do CSS3, irei demonstrar em cada projeto
 
 🪧 Páginas web estáticas:  
 
-    * LOJA VIRTUAL;
-    * 
+    * Em construções, aguardem !!!
 
 🪧 Páginas Web Dinâmicas:  
 
