@@ -12,7 +12,7 @@ Existem muitas vantagens na nova versao do CSS3, irei demonstrar em cada projeto
 
 🪧 Páginas web estáticas:  
 
-    * Receita_bolo
+    * Em construções, aguardem !!!
 
 🪧 Páginas Web Dinâmicas:  
 
@@ -25,21 +25,10 @@ Boas Práticas:
     * Arquivo externo (pasta css na raiz do projeto) utilize <link rel="stylesheet" href="estilo.css">.
 
 ---
-## Contato  
-
-<img src="./img/contato.png"  width="200" height="200">  
-
-Clique aqui  [Linkedin](www.linkedin.com/in/nilva-pires) 
-<br>
-<br>
- <a href="mailto:piresnilva@gmail.com" target="_blank">
-<img align="left" src="https://i.ibb.co/rbWnqPH/e-mail.png" alt="e-mail" border="0" width="50px" height="30px"></a>
-<br>
-
-
+<img src="imagem/contato.png"  width="100" >  Quer entrar contato comigo? Clique aqui
+[Linkedin](www.linkedin.com/in/nilva-pires)
 
 
 ---
 __Developer🔸Nilva Pires 🔸2023__
-
 
