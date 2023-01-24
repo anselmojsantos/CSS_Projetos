@@ -2,21 +2,27 @@
 
 # Este Repositório tem o objetivo de expor os resultados dos estudos de CSS e CSS3.
 
-🚨🚨🚨 Qual a diferença entre CSS e CSS3?
+## 🚨🚨🚨 Qual a diferença entre CSS e CSS3?
+
 CSS  é a versão básica e não suporta design responsivo, enquanto CSS3 é a versão mais recente e suporta design responsivo, possui modules.
 
-Existem muitas vantagens na nova versao do CSS3, irei demonstrar em cada projeto.
+Existem muitas vantagens na nova versão do CSS3, irei demonstrar em cada projeto.
 
 ---
 ## Estrutura dos projetos:
 
-🪧 Páginas web estáticas:  
+    🪧 Páginas web estáticas:  
 
-    * Receita_bolo
+        * Receita_bolo;
+        * barbearia;
+    
+    🪧 Páginas Web Autocontida:  
 
-🪧 Páginas Web Dinâmicas:  
+        * venda-livro
 
-    * Em construções, aguardem!!!!
+    🪧 Páginas Web Dinâmicas:  
+
+        * Em construções, aguardem!!!!
 
 Boas Práticas:
 
@@ -27,19 +33,28 @@ Boas Práticas:
 ---
 ## Contato  
 
-<img src="./img/contato.png"  width="200" height="200">  
+<img text-align="center" src="./img/contato.png"  width="300" height="300"> 
+<br> 
+<br> 
 
-Clique aqui  [Linkedin](www.linkedin.com/in/nilva-pires) 
+
+<a href="https://www.linkedin.com/in/nilva-pires" target="_blank">
+<img text-align="left"  src="https://i.ibb.co/bbF8291/30.jpg" alt="30" width="100px" height="100px"></a>  
+
 <br>
 <br>
+
  <a href="mailto:piresnilva@gmail.com" target="_blank">
-<img align="left" src="https://i.ibb.co/rbWnqPH/e-mail.png" alt="e-mail" border="0" width="50px" height="30px"></a>
-<br>
+<img text-align="right" src="https://i.ibb.co/rbWnqPH/e-mail.png" alt="e-mail"  width="100px" height="100px"></a>  
+
+<br>  
+<br>  
+<br>  
 
 
 
 
----
-__Developer🔸Nilva Pires 🔸2023__
+___
+<p align="center">Developer🔸Nilva Pires 🔸2023</p>
 
 
