@@ -98,6 +98,7 @@ O projeto é uma página AUTOCONTIDA para divulgar e vender um livro. Não é um
 
 
 ___
-<p text-align="center">Developer🔸Nilva Pires 🔸2023</p>
+<p text-align="center">Nilva Pires 🔸 Developer FullStack Web & DataScience🔸</p>
+<p text-align="center">🔸 Todos os direitos Reservados 🔸 2023</p>
 
 
